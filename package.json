@@ -1,0 +1,19 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennylalalam/to-do.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennylalalam/to-do/issues"
+  },
+  "homepage": "https://github.com/kennylalalam/to-do#readme"
+}
